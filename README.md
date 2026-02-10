@@ -1,18 +1,59 @@
-# 💫 About Me:
-# Hi there 👋 I'm Aman Kumar<br><br>🚀 Passionate Full Stack Developer in Progress  <br>💻 Exploring Web Development & Problem Solving  <br>🌱 Learning every day, building consistently<br><br>---<br><br>## 👨‍💻 About Me<br><br>I’m a dedicated and self-driven developer currently learning and building with modern web technologies. I enjoy understanding how things work from frontend design to backend logic and database architecture.<br><br>My goal is to become a strong Full Stack Developer with deep knowledge of fundamentals and real-world problem-solving skills.<br><br>I believe in:<br>✨ Writing clean and readable code  <br>✨ Strengthening core fundamentals  <br>✨ Consistency over motivation  <br>✨ Learning by building real projects  <br><br>---<br><br>## 🛠️ Tech Stack & Tools<br><br>### 🌐 Frontend<br>- HTML5  <br>- CSS3  <br>- JavaScript (ES6+)  <br>- React.js  <br><br>### ⚙️ Backend<br>- Node.js  <br>- Express.js  <br><br>### 🗄️ Database<br>- MongoDB  <br>- MongoDB Aggregation  <br><br>### 🧠 Programming & Problem Solving<br>- C++  <br>- Data Structures & Algorithms  <br><br>### 🔧 Tools<br>- Git & GitHub  <br>- VS Code  <br><br>---<br><br>## 📚 Currently Working On<br><br>- Strengthening MERN Stack fundamentals  <br>- Improving DSA skills using C++  <br>- Building real-world full stack projects  <br>- Understanding backend architecture deeply  <br><br>---<br><br>## 🎯 Future Goals<br><br>- Master Full Stack Development  <br>- Contribute to Open Source  <br>- Build scalable and optimized applications  <br>- Keep growing 1% every day  <br><br>---<br><br>🔥 I’m not just learning to code — I’m learning to build systems, solve problems, and think like a developer.<br><br>Thanks for visiting my profile! ⭐<br>
+# 👋 Hi, I'm Aman Kumar  
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aman-kumar-067825379/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aman.kr.cg@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amankumarb778-crypto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=amankumarb778-crypto&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amankumarb778-crypto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+🚀 Full Stack Developer (Learning & Building)  
+💻 MERN Stack | C++ | Problem Solving  
+🌱 Growing 1% every day  
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amankumarb778-crypto&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me  
+
+I’m a self-driven developer passionate about building modern web applications and improving my problem-solving skills.
+
+Currently focused on mastering the MERN stack, strengthening DSA with C++, and building real-world projects that solve practical problems.
+
+✨ Clean Code  
+✨ Strong Fundamentals  
+✨ Consistency > Motivation  
+✨ Learn → Build → Improve  
+
+---
+
+## 🛠️ Tech Stack  
+
+**Frontend:** HTML | CSS | JavaScript | React  
+**Backend:** Node.js | Express  
+**Database:** MongoDB  
+**Programming:** C++ | DSA  
+**Tools:** Git | GitHub | VS Code  
+
+---
+
+## 📊 GitHub Stats  
+
+![](https://github-readme-stats.vercel.app/api?username=amankumarb778-crypto&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+
+![](https://nirzak-streak-stats.vercel.app/?user=amankumarb778-crypto&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=amankumarb778-crypto&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+
+## 🏆 GitHub Achievements  
+
+![](https://github-profile-trophy.vercel.app/?username=amankumarb778-crypto&theme=darkhub&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+
+---
+
+## 🎯 Goals  
+
+- Become a strong Full Stack Developer  
+- Contribute to Open Source  
+- Build scalable applications  
+- Keep learning & improving  
+
+---
+
+🔥 Not just learning to code — learning to think like a developer.
