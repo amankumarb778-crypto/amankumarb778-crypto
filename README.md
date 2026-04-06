@@ -7,8 +7,7 @@
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=amankumarb778-crypto&label=Profile+Views&color=00f7ff&style=for-the-badge" />
-&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/amankumarb778-crypto?label=Followers&style=for-the-badge&color=00f7ff&labelColor=0a1628)](https://github.com/amankumarb778-crypto)
+
 
 </div>
 
@@ -77,12 +76,7 @@ Learn → Build → Improve → Repeat → Never stop.
 
 ## 📈 GitHub Stats
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amankumarb778-crypto&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumarb778-crypto&theme=tokyonight&layout=compact&hide_border=true" />
-
-</div>
 
 <div align="center">
 <img src="https://streak-stats.demolab.com/?user=amankumarb778-crypto&theme=tokyonight&hide_border=true" />
@@ -98,13 +92,7 @@ Learn → Build → Improve → Repeat → Never stop.
 
 ---
 
-## 🏆 Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=amankumarb778-crypto&theme=tokyonight&no-frame=true&margin-w=10&column=6" />
-</div>
-
----
 
 ## 🐍 Contribution Snake
 
