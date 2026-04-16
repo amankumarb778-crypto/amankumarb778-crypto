@@ -11,32 +11,33 @@
 
 </div>
 
----
-
 ## 👨‍💻 About Me
 
-```bash
-$ whoami
-→ Aman Kumar | 1st Year CSE | Full Stack Dev in Progress
+<p>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" height="190" width="400" align="right" style="margin-left:20px;" />
+</p>
+- 🎓 Aspiring **Software Engineer** <br/>
+- 💻 Currently exploring **System Design & Advanced Backend** <br/>
+- 📚 Learning **Advanced DSA, React, Backend Systems** <br/>
+- 🔭 Building **real-world scalable applications**  <br/>
+- 🌱 Passionate about **clean UI & performance optimization**  <br/>
+- 🧠 Strong in **DSA & Problem Solving**  <br/>
+- 🤝 Enjoy collaborating and working in **team environments**  <br/>
+- 💡 Fun fact: I’m a **creative person** and I love my country INDIA <br/>
 
-$ cat journey.log
-Aug 2025: C language  →  Sep: HTML & CSS
-Oct 2025: JavaScript  →  Jan 2026: MERN + C++ DSA
-Mar 2026: Building real full-stack projects
+---## 🌐 Connect With Me
 
-$ npm run build-career
-✓ Fundamentals compiled    done
-✓ Projects deploying       done
-✓ Consistency = 100%       done
-
-$ echo $MOTTO
-Learn → Build → Improve → Repeat → Never stop.
-```
-
-- 🎓 **1st Year Computer Science** — started Aug 2025
-- 💡 Zero to **MERN + C++** in under 8 months
-- 🚀 Currently **shipping real full-stack projects**
-- 🔥 **Consistency > Motivation** — every single day
+<p align="center">
+  <a href="mailto:nikhil0001007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://portfolio-nikhil-rajs-projects-146c00b0.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/>
+  </a>
+  <a href="https://drive.google.com/file/d/1rOdcJSUnU9pYNaZCKigxN59w8hqkV51a/view?usp=drive_link">
+    <img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
@@ -44,42 +45,41 @@ Learn → Build → Improve → Repeat → Never stop.
 
 <div align="center">
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<h3>⚡ Frontend </h3>
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+</p>
+
+<h3>🛠 Backend</h3> 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+<h3>🔧 Tools</h3>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=github,git,figma,netlify,vscode" />
+</p>
+
+<h3> 👩‍💻 Languages</h3>
+<p align="center
+">
+<img src="https://skillicons.dev/icons?i=cpp,c,js" />
+</p>
 
 </div>
 
 ---
 
-## 🗓️ Journey
 
-| When | What |
-|------|------|
-| 🟢 Aug 2025 | **C language** — 1st year CSE starts. Zero to code. |
-| 🟢 Sep 2025 | **HTML & CSS** — First real webpages. |
-| 🟢 Oct 2025 | **JavaScript** — DOM, ES6+, async. Pages came alive. |
-| 🟢 Jan 2026 | **MERN + C++** — React, Node, MongoDB, Express & DSA. |
-| 🔵 Mar 2026 | **Building projects** — Shipping full-stack apps right now. |
 
----
 
 ## 📈 GitHub Stats
 
 
 
 <div align="center">
-<img src="https://streak-stats.demolab.com/?user=amankumarb778-crypto&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com/?user=amankumar1508&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
@@ -87,7 +87,7 @@ Learn → Build → Improve → Repeat → Never stop.
 ## 📊 Contribution Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amankumarb778-crypto&theme=react-dark&hide_border=true&color=00f7ff&line=00f7ff&point=7b61ff" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amankumar1508&theme=react-dark&hide_border=true&color=00f7ff&line=00f7ff&point=7b61ff" />
 </div>
 
 ---
@@ -102,20 +102,6 @@ Learn → Build → Improve → Repeat → Never stop.
 
 ---
 
-## 🎯 Goals
-
-```
-[✅] Started from zero
-[✅] Learned C, HTML, CSS, JavaScript
-[✅] Learned MERN Stack
-[✅] Started building real projects
-[ ] Contribute to Open Source
-[ ] Solve 300+ DSA problems in C++
-[ ] Land an internship
-[ ] Build a production-ready app
-```
-
----
 
 ## 🔥 Dev Quote
 
