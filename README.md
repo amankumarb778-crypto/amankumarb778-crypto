@@ -52,16 +52,16 @@ motto      : "Build it. Break it. Fix it. Ship it."
 <div align="center">
 
 ### ⚡ Frontend
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind&perline=4&theme=dark" />
 
 ### 🛠 Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=4&theme=dark" />
 
-### 🔧 Tools & Platforms
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel&theme=dark" />
+### 🔧 Tools
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,netlify,vercel&perline=6&theme=dark" />
 
 ### 👩‍💻 Languages
-<img src="https://skillicons.dev/icons?i=cpp,c,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,c,js&perline=4&theme=dark" />
 
 </div>
 
