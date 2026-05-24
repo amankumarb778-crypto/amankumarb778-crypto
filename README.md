@@ -89,7 +89,11 @@ motto      : "Build it. Break it. Fix it. Ship it."
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/amankumar1508?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20" />
+<h2>Aman Kumar</h2>
+
+<a href="https://leetcode.com/u/OVzm6rcAP2/">
+  <img src="https://leetcard.jacoblin.cool/OVzm6rcAP2?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=20" />
+</a>
 
 </div>
 
@@ -99,10 +103,8 @@ motto      : "Build it. Break it. Fix it. Ship it."
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=amankumar1508&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&icon_color=7b61ff&text_color=ffffff&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amankumar1508&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f7ff&text_color=ffffff&langs_count=8" />
 
-<br/>
+
 
 <img src="https://streak-stats.demolab.com/?user=amankumar1508&theme=tokyonight&hide_border=true&background=0d1117&ring=00f7ff&fire=7b61ff&currStreakLabel=00f7ff" />
 
@@ -126,42 +128,4 @@ motto      : "Build it. Break it. Fix it. Ship it."
 
 ---
 
-## 🏅 GitHub Trophies
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=amankumar1508&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
-</div>
-
----
-
-## 🔥 Dev Quote
-
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
----
-
-## 📅 Currently Working On
-
-```javascript
-const aman = {
-  currentlyLearning : ["System Design", "Advanced DSA", "REST APIs"],
-  building          : ["Scalable MERN Apps", "DSA Projects"],
-  nextGoal          : "Land a great internship 🚀",
-  askMeAbout        : ["Web Dev", "C++", "Problem Solving"],
-  availableFor      : ["Collaboration", "Open Source", "Projects"]
-};
-```
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B61FF,50:00f7ff,100:050b14&height=140&section=footer&animation=fadeIn" />
-
-*"Not just learning to code — learning to think like a developer."*
-
-**Aman Kumar** · 1st Year CSE · Building in Public · 2025 → ∞
-
-</div>
